@@ -1,0 +1,76 @@
+{
+    "product": [
+      {
+        "Image": "https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA%3D&w=1000&q=80",
+        "Product_Name": "High Quality cotton jeans",
+        "Product_Description": "High Quality cotton jeans- very good",
+        "Gender": "Male",
+        "Category": "Jeans",
+        "Price": "1200",
+        "id": 3
+      },
+      {
+        "Image": "https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA%3D&w=1000&q=80",
+        "Product_Name": "High Quality cotton jeans",
+        "Product_Description": "High Quality cotton jeans- very good",
+        "Gender": "Male",
+        "Category": "Jeans",
+        "Price": "1200",
+        "id": 4
+      },
+      {
+        "Image": "https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA%3D&w=1000&q=80",
+        "Product_Name": "High Quality cotton jeans",
+        "Product_Description": "High Quality cotton jeans- very good",
+        "Gender": "Male",
+        "Category": "Jeans",
+        "Price": "1200",
+        "id": 5
+      },
+      {
+        "Image": "https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA%3D&w=1000&q=80",
+        "Product_Name": "ABC",
+        "Product_Description": "Jeans",
+        "Gender": "Male",
+        "Category": "Jeans",
+        "Price": "1100",
+        "id": 6
+      },
+      {
+        "Image": "https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA%3D&w=1000&q=80",
+        "Product_Name": "Jeans",
+        "Product_Description": "Good",
+        "Gender": "Male",
+        "Category": "Jeans",
+        "Price": "1000",
+        "id": 7
+      },
+      {
+        "Image": "https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA%3D&w=1000&q=80",
+        "Product_Name": "asdaf",
+        "Product_Description": "dgvzgvzs",
+        "Gender": "Male",
+        "Category": "Jeans",
+        "Price": "1111",
+        "id": 8
+      },
+      {
+        "Image": "https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA%3D&w=1000&q=80",
+        "Product_Name": "Hemant",
+        "Product_Description": "Hemant",
+        "Gender": "Male",
+        "Category": "Jeans",
+        "Price": "1110",
+        "id": 9
+      },
+      {
+        "Image": "https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA%3D&w=1000&q=80",
+        "Product_Name": "Jeans Mens",
+        "Product_Description": "Very good proct",
+        "Gender": "Male",
+        "Category": "Jeans",
+        "Price": "1199",
+        "id": 10
+      }
+    ]
+  }
